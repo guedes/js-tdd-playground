@@ -1,0 +1,25 @@
+{
+  "name": "js-tdd-playground",
+  "version": "1.0.0",
+  "description": "Lib para brincar com JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmakowiesky/js-tdd-playground.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "lib",
+    "library"
+  ],
+  "author": "Daniel Vieira Makowiesky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielmakowiesky/js-tdd-playground/issues"
+  },
+  "homepage": "https://github.com/danielmakowiesky/js-tdd-playground#readme"
+}
