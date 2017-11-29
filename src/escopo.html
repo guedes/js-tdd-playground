@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Escopo</title>
+</head>Document
+<script>
+
+
+function sayAnimal(){
+    var animal = cat;
+console.log(animal); //cat
+}
+
+sayAnimal();
+console.log(animal) // Reference Error
+// Esse console log só irá mostra o valor da variável animal caso ela fosse iniciada de forma global, ou seja, fora da function
+</script>
+<body>
+    
+</body>
+</html>
